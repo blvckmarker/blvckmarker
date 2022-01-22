@@ -1,16 +1,64 @@
-### Hi there 👋
+# About Me👇
 
-<!--
-**blvckmarker/blvckmarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍Lover: A+, Analytica, APL, BASIC, Chapel, Fortran 90, FreeMat, GAUSS, Interactive Data Language, J, Julia, K, MATLAB, Octave, Q, R, S, Scilab, S-Lang, SequenceL, Speakeasy, Wolfram Language, X10, ZPL
 
-Here are some ideas to get you started:
+📍Also: Assembly, Darwin Information Typing Architecture, Lasso, PILOT,TUTOR, Authorware, Bertrand, Constraint Handling Rules, CHIP, ECLiPSe, Kaleidoscope.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍And-and-and most favorite languages: 
+, ABCL/c+
+, Alef
+, Limbo
+, Go
+, AWK
+, B
+, bc
+, BCPL
+, Ballerina
+, C
+, C++
+, C#
+, Ceylon
+, ChucK
+, Cilk 
+, Cyclone 
+, Dart 
+, E
+, eC
+, ECMAScript
+, ActionScript
+, ECMAScript
+, JavaScript
+, JScript
+, TypeScript
+, GLSL
+, HLSL
+, ICI
+, Java
+, Processing
+, Groovy
+, Join Java
+, Kotlin
+, Tea
+, X10
+, LPC
+, MEL
+, Nemerle
+, Perl
+, PHP
+, Pico
+, Pike
+, PowerShell
+, R
+, Rust
+,  S-Lang
+, Scala 
+, sed
+, Solidity
+, SuperCollider
+, Swift
+, UnrealScript
+,Yorick
+, YASS
+
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
