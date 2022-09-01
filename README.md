@@ -9,9 +9,8 @@
 
 # Hi! <img width="55px" src="https://user-images.githubusercontent.com/96735303/187716002-8cc2bbb5-86ff-486a-a0fe-502eb4aae6e2.png"/>
 Hi, my nickname, as you might have realized, is blvckmarker. <code>Thanks to Visceral Games for a great game.</code>
-Among other things, I've been programming since 2021. The area of interest is web development. Always dreaming of waking up and writing a fucking online store in ASP.NET. I'm enthusiastically studying the pure architecture reference model - patterns, principles, etc.
+Among other things, I've been programming since 2021. The area of interest is web development. Always dreaming of waking up and writing a fxckxng online store in ASP.NET. I'm enthusiastically studying the pure architecture reference model - patterns, principles, etc.
 
-I'm also a beginner freelancer, it's not good to work for food nowadays.
 
 ### **Languages and tools**
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
