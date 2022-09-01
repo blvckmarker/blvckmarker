@@ -8,8 +8,7 @@
 
 
 # Hi! <img width="55px" src="https://user-images.githubusercontent.com/96735303/187716002-8cc2bbb5-86ff-486a-a0fe-502eb4aae6e2.png"/>
-My nickname, as you might have realized, is blvckmarker. <code>Thanks to Visceral Games for a great game.</code>
-Among other things, I've been programming since 2021. The area of interest is web development. Always dreaming of waking up and writing a fxckxng online store in ASP.NET. I'm enthusiastically studying the pure architecture reference model - patterns, principles, etc.
+My nickname, as you might have realized, is blvckmarker. Among other things, I've been programming since 2021. The area of interest is web development. Always dreaming of waking up and writing a fxckxng online store in ASP.NET. I'm enthusiastically studying the pure architecture reference model - patterns, principles, etc.
 
 
 ### **Languages and tools**
