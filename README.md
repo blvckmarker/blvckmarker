@@ -1,15 +1,34 @@
-### **Languages and tools**
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/typescript.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/html.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/css.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/cplus.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/csharp.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/git.png"></code>
-<code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/visual-studio.png"></code>
-<code><img height="35" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code>
-<br/><br/>
+# <p align="center">Hola, amigo 👋 </p>
+<br/>
 
+<p align="center" >
+  <img  width="700" height="900" src="./root/roadmap.png"></img>
+</p>
+<br/>
+
+🔸 [**Leetcode profile (clickable)**](https://leetcode.com/blvckmarker)
+
+🔸 [**Codewars profile (clickable)**](https://www.codewars.com/users/blvckmarker)
+
+🔸 [**Telegram profile (clickable)**](https://t.me/blvckmarker)
+<hr/>
+
+### <p align="center">Some statistics ⚰</p>
+
+<div align="center">
+  
+*<p>Most used languages</p>*
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blvckmarker&hide=fortran)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+*<p align="center">Active&pinned repos</p>*
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blvckmarker&repo=extremeparse&show_owner=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
 <p align="center">
 <img src="https://github.com/blvckmarker/blvckmarker/blob/main/root/sticker.png"/>
 </p>
