@@ -7,6 +7,7 @@
 <code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/csharp.png"></code>
 <code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/git.png"></code>
 <code><img height="35" src="https://github.com/blvckmarker/blvckmarker/blob/main/root/visual-studio.png"></code>
+<code><img height="35" src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png"></code>
 <br/><br/>
 
 <p align="center">
